@@ -1,0 +1,5 @@
+A call to .append() will place new items in the available space.
+ Lists are sequences that can hold different data types and Python objects, so you can use .append()
+ to add any object to a given list. In this example,
+  you first add an integer number, then a string, and finally 
+  a floating-point number.
